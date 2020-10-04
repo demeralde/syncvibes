@@ -5,6 +5,8 @@ This project is a WIP. It's something I've wanted for a long time, but never got
 
 ## Features
 
+This is the sort of thing I have in mind (all the details need to be ironed out):
+
 * A universal format for importing/exporting playlists between all media players and devices
 * Data is saved in the filesystem to make syncing easy (so you can use an app like [Syncthing](https://syncthing.net) to easily sync music between devices) 
 * Asynchronous syncing of music without the need of a centralised server (so if you update a playlist on one device, it can be reflected on another without conflicts, and vice versa)
