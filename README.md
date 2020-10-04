@@ -15,7 +15,7 @@ This project is a WIP. It's something I've wanted for a long time, but never got
 * Utility for organising music into a user-friendly tree
 * Utility for accurately removing identifying, removing, and updating duplicates 
 * Sync playlists without the use of external syncing apps (which are often inaccurate and don't sync 100% of music; are frequently paid; and may mine your data)
-* Keeps track of music that wasn't synced, so you're able to keep track of what's missing in your library between players
+* Keeps track of music that wasn't synced (such as importing music from Spotify to TIDAL that wasn't available), so you're able to keep track of what's missing in your library between players
 * Detailed and neat playlist files (in `.json` or something), instead of messy files such as `.pls`
 * Fragmented song metadata (such as title, artist, and album) to make granular and accurate searches easy
 * Support for other nodes, such as albums (to replace `.m3u`) 
