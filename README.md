@@ -14,7 +14,7 @@ This is the sort of thing I have in mind (all the details need to be ironed out)
 * Easy-to-use API with libraries for popular programming languages
 * Utilities for quickly running a sync, which can be run at the app's startup (or whenever is optimal)
 * Ledger with a single source of truth for organising music files to prevent duplicates
-* Utility for organising music into a user-friendly tree
+* For local files, there's a utility for organising music into a user-friendly tree (folders for artists, albums, playlists, which use symlinks to a directory of all music to prevent duplicates)
 * Utility for accurately removing identifying, removing, and updating duplicates 
 * Sync playlists without the use of external syncing apps (which are often inaccurate and don't sync 100% of music; are frequently paid; and may mine your data)
 * Keeps track of music that wasn't synced (such as importing music from Spotify to TIDAL that wasn't available), so you're able to keep track of what's missing in your library between players
